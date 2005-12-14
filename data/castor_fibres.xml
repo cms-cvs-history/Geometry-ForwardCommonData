@@ -199,7 +199,7 @@
 <!-- fiber layer     pgon volume     1   copy -->
 <!--  -->
  <PosPart copyNumber="1">
-   <rParent name="castor:CASF"/>
+   <rParent name="castor2:CASF"/>
    <rChild name="castor_fibres:CAAF"/> 
   <rRotation name="rotations:000D"/>
   <Translation x="0.0*mm" y="0.0*mm" z="0.0*mm" /> 
