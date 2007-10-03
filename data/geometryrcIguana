@@ -1,6 +1,0 @@
-GoPersistent = false
-DDDConfigFile = iguanaZdcTestConfiguration.xml
-ExtraPackages = MantisDefaultExceptionHandler
-Generator = false
-Physics = false
-MantisMagneticField:UseMagneticField = false
